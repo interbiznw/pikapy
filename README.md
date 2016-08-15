@@ -1,5 +1,9 @@
-Pikapy - Mass Pokemon Go Account Creator and ToS verifier
+Pikapy - [NOT DEAD READ BELOW] Mass Pokemon Go Account Creator and ToS verifier
 ==============================================================
+
+#NOTICE
+##DUE TO NIANTIC IMPLEMENTING RECAPTCHA IN THE SIGN-UP PROCESS, THIS SCRIPT IS NOT WORKING ANYMORE. BUT ITS NOT THE END, READ BELOW
+#### Niantic has implemented reCaptcha into their signup process, causing this script to stop working. But we are working on a website which will allow you generate accounts just with a few clicks!
 
 Description
 -----------
